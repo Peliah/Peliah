@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-Hey there! I'm [Peliah], a passionate developer who loves coding, exploring new technologies, and creating amazing software. I believe in the power of clean code, teamwork, and the occasional nerdy joke! 😉
+Hey there! I'm Peliah, a passionate developer who loves coding, exploring new technologies, and creating amazing software. I believe in the power of clean code, teamwork, and the occasional nerdy joke! 😉
 
 ## 💻 Technologies & Tools
 
