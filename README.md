@@ -31,7 +31,7 @@ I'm always excited to connect with fellow developers and collaborate on interest
 
 - 🐦 Twitter: [@pelayah_epoupa](https://twitter.com/pelayah_epoupa)
 - 💼 LinkedIn: [Pelayah Epoupa](https://www.linkedin.com/in/pelayah-epoupa-12830a198/)
-- 🌐 Personal Website: [www.Medium.com](https://medium.com/@pelepoupa)
+- 🌐 Portfolio Website: [Peliah](https://pelayah-portfolio.vercel.app/)
 
 ---
 
