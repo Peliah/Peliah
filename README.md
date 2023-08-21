@@ -1,44 +1,38 @@
-# 👋 Welcome to My Awesome GitHub Profile! 🚀
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 
-## 🌟 About Me
+<h1 align="center">Hi 👋, I'm Peliah!!!</h1>
+<h3 align="center">A passionate developer who loves coding, exploring new technologies, and creating amazing software. I believe in the power of clean code, teamwork, and the occasional nerdy joke! 😉</h3>
 
-Hey there! I'm Peliah, a passionate developer who loves coding, exploring new technologies, and creating amazing software. I believe in the power of clean code, teamwork, and the occasional nerdy joke! 😉
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peliah&label=Profile%20views&color=0e75b6&style=flat" alt="peliah" /> </p>
 
-## 💻 Technologies & Tools
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peliah" alt="peliah" /></a> </p>
 
-Here are some of the technologies and tools that I work with:
+<p align="left"> <a href="https://twitter.com/pelayah_epoupa" target="blank"><img src="https://img.shields.io/twitter/follow/pelayah_epoupa?logo=twitter&style=for-the-badge" alt="pelayah_epoupa" /></a> </p>
 
-- 🖥️ Languages: Java, Python, JavaScript
-- 🧰 Frameworks & Libraries: Spring Boot, React, Django
-- 🛠️ Tools & Platforms: Git, VS Code, Docker, Android Studio
-- 📊 Databases: MySQL, PostgreSQL
-- 🚀 DevOps: CI/CD, Kubernetes
+- 🌱 I’m currently learning **DevOps, Typescript**
 
-## 🚀 Projects
+- 💬 Ask me about **react, java...**
 
-I have worked on a variety of projects, from web applications to mobile apps. Here are a few examples:
+- 📫 How to reach me **pelepoupa@gmail.com**
 
-- 📱 [ChatApp](https://github.com/Peliah/ChatApp): An awesome mobile app that illustrates the different functionalities of instant messaging applications
+- ⚡ Fun fact **🌟 I believe that coding is like magic. We create things out of thin air with just a few lines of code! ✨** 
+- **🎮 When I'm not coding, you'll probably find me battling virtual monsters in my favorite video games Or writing an article.**
 
-## 🌈 Fun Facts
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🌟 I believe that coding is like magic. We create things out of thin air with just a few lines of code! ✨
-- 🎮 When I'm not coding, you'll probably find me battling virtual monsters in my favorite video games Or writing an article.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pelayah_epoupa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pelayah_epoupa" height="30" width="40" /></a>
+<a href="https://medium.com/@peliah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@peliah" height="30" width="40" /></a>
+</p>
 
-## 🤝 Let's Connect!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-I'm always excited to connect with fellow developers and collaborate on interesting projects. Feel free to reach out to me on:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peliah&show_icons=true&locale=en&layout=compact" alt="peliah" /></p>
 
-- 🐦 Twitter: [@pelayah_epoupa](https://twitter.com/pelayah_epoupa)
-- 💼 LinkedIn: [Pelayah Epoupa](https://www.linkedin.com/in/pelayah-epoupa-12830a198/)
-- 🌐 Portfolio Website: [Peliah](https://pelayah-portfolio.vercel.app/)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peliah&show_icons=true&locale=en" alt="peliah" /></p>
 
----
-
-Thanks for stopping by and checking out my profile! Let's create something amazing together. Happy coding! 🎉✨
-
-
-<!---
-Peliah/Peliah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peliah&" alt="peliah" /></p>
